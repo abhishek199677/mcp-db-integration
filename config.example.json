@@ -1,0 +1,10 @@
+{
+    "google": {
+      "clientId": "318999739461-cuc2f77simr904es6k2ihpt6dmv7em5l.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "redirectUri": "http://localhost",
+      "spreadsheetId": "13WDTz5SpTA3MZEQOvM240OCOMaXOJmjlj1dHM-Ol-tk",
+      "calendarId": "primary"
+    }
+  }
+  

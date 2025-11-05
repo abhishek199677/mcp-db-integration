@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "google-services": {
+      "command": "/opt/miniconda3/envs/mcp/bin/python",
+      "args": [
+        "/Users/sunny/Downloads/mcp_practical/src/mcp_server.py"
+      ],
+      "env": {}
+    },
+    "postgresql-db": {
+      "command": "/opt/miniconda3/envs/mcp/bin/python",
+      "args": [
+        "/Users/sunny/Downloads/mcp_practical/src/mcp_server.py"
+      ],
+      "env": {}
+    },
+    "mongodb": {
+      "command": "/opt/miniconda3/envs/mcp/bin/python",
+      "args": [
+        "/Users/sunny/Downloads/mcp_practical/src/mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
