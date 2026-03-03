@@ -1,25 +1,17 @@
 {
   "mcpServers": {
-    "google-services": {
-      "command": "/opt/miniconda3/envs/mcp/bin/python",
+    "unified-mcp-server": {
+      "command": "C:\\Users\\hi\\anaconda3\\envs\\finetuning\\python.exe",
       "args": [
-        "/Users/sunny/Downloads/mcp_practical/src/mcp_server.py"
+        "C:\\Users\\hi\\OneDrive\\Desktop\\mcp-db-integration\\src\\mcp_server.py"
       ],
-      "env": {}
-    },
-    "postgresql-db": {
-      "command": "/opt/miniconda3/envs/mcp/bin/python",
-      "args": [
-        "/Users/sunny/Downloads/mcp_practical/src/mcp_server.py"
-      ],
-      "env": {}
-    },
-    "mongodb": {
-      "command": "/opt/miniconda3/envs/mcp/bin/python",
-      "args": [
-        "/Users/sunny/Downloads/mcp_practical/src/mcp_server.py"
-      ],
-      "env": {}
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "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",
+        "PYTHONPATH": "C:\\Users\\hi\\OneDrive\\Desktop\\mcp-db-integration"
+      }
     }
+  },
+  "preferences": {
+    "coworkWebSearchEnabled": true
   }
 }
