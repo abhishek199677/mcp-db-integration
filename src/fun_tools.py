@@ -1,6 +1,7 @@
 import antigravity
 import webbrowser
 
+
 def fly():
     """The legendary Python antigravity tool."""
     # This usually opens https://xkcd.com/353/
